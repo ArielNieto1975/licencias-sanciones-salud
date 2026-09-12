@@ -50,10 +50,7 @@ const Header = () => {
         {!isSanciones && (
           <div className="alerta-licencias">
             <p>
-              <strong>Aviso Importante:</strong> El presente instructivo es solo
-              a los efectos de guiar en la temática de autorización de licencia
-              y aplicaciòn de sanciones, y bajo ningún punto pretende reemplazar
-              las leyes vigentes.
+              <strong>Aviso Importante:</strong> El presente instructivo reviste carácter meramente orientativo, como guía práctica para respaldar la toma de desiciones en la autorización de licencias y aplicación del regimen desciplinario. No sustituye ni reemplaza el marco normativo y reglamentario legalmente vigente.
             </p>
           </div>
         )}
@@ -61,10 +58,7 @@ const Header = () => {
         {isSanciones && (
           <div className="alerta-licencias">
             <p>
-              <strong>Aviso Importante:</strong> El presente instructivo es solo
-              a los efectos de guiar en la temática de autorización de licencia
-              y aplicación de sanciones, y bajo ningún punto pretende reemplazar
-              las leyes vigentes.
+              <strong>Aviso Importante:</strong> El presente instructivo reviste carácter meramente orientativo, como guía práctica para respaldar la toma de desiciones en la autorización de licencias y aplicación del regimen desciplinario. No sustituye ni reemplaza el marco normativo y reglamentario legalmente vigente.
             </p>
           </div>
         )}

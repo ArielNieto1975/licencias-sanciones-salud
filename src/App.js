@@ -31,6 +31,8 @@ import FaltaRespeto from "./pages/FaltaRespeto.jsx";
 import AbandonoCargo from "./pages/AbandonoCargo.jsx";
 import Accidente from "./pages/AccidenteOEnfermedad.jsx";
 import RazonesSalud from "./pages/RazonesSalud.jsx";
+import Negligencia from "./pages/Negligencia.jsx";
+import AutoridadAplicacion from "./pages/AutoridadAplicacion.jsx";
 
 // sanciones
 import Sanciones from "./pages/Sanciones.jsx";
@@ -58,6 +60,8 @@ function App() {
             <Route path="/AbandonoServicio" element={<AbandonoServicio />} />
             <Route path="/FaltaRespeto" element={<FaltaRespeto />} />
             <Route path="/AbandonoCargo" element={<AbandonoCargo />} />
+            <Route path="/Negligencia" element={<Negligencia />} />
+            <Route path="/AutoridadAplicacion" element={<AutoridadAplicacion />} />
             {/* aqui temina sanciones */}
 
             <Route path="/Lar" element={<Lar />} />

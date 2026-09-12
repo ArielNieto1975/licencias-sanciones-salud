@@ -237,7 +237,19 @@ h4 {
   text-shadow: 5px 1px 10px black;
 }
 
+.avisoSancion {
+  background-color: #ff6b6b;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-size: 1.1em;
+  text-align: center;
+  box-shadow: 0 4px 6px #0000001a;
+  
+  
 
+}
 
 .alerta-licencias {
   background: rgba(255, 255, 255, 0.95);
