@@ -28,7 +28,7 @@ const PorViolencia = () => (
       <p className="centrado">
         Fuente{" "}
         <a
-          href="http://web2.cba.gov.ar/web/leyes.nsf/85a69a561f9ea43d03257234006a8594/33af73604c70a1f0032580ca00593150/$FILE/1295-16%20ANEXO%20UNICO.pdf"
+          href="https://direccioninformaticajuridica.cba.gov.ar/Principal/Decretos/8917"
           target="_blank"
           rel="noopener noreferrer"
         >

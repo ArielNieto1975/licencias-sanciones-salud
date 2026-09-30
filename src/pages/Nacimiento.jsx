@@ -21,7 +21,7 @@ const Nacimiento = () => (
       <p className="centrado">
         Fuente Art.50{" "}
         <a
-          href="http://web2.cba.gov.ar/web/leyes.nsf/0/B4E0D6549A13821503257BE1006695BB?OpenDocument&Highlight=0,7233"
+          href="https://direccioninformaticajuridica.cba.gov.ar/Principal/Leyes/9566"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -29,7 +29,7 @@ const Nacimiento = () => (
         </a>{" "}
         y Art. 92{" "}
         <a
-          href="http://web2.cba.gov.ar/web/leyes.nsf/0/0DCA596E4811BAE2032589C900521F5C?OpenDocument&Highlight=0,7625"
+          href="https://direccioninformaticajuridica.cba.gov.ar/Principal/Leyes/10335"
           target="_blank"
           rel="noopener noreferrer"
         >
